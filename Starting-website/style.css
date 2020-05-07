@@ -7,6 +7,37 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+/*edit start*/
+.service_p{
+    font-size: 1.2em;
+}
+.services{
+    font-size: 1.6em;
+    margin-bottom: 60px;
+}
+
+.citation{
+    font-size: 1.4em;
+}
+
+.source{
+    font-size: 1em;
+}
+
+.realisations_p{
+    font-size: 1.2em;   
+}
+
+.h3_new{
+    font-size: 1.5em;
+}
+
+.footer_p{
+    font-size: 1.4em;
+    margin-bottom: 30px;
+}
+
+/*edit end*/
 a,
 button {
     transition: all .3s ease-in-out;
