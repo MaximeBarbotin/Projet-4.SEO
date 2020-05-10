@@ -35,7 +35,9 @@ body {
 .footer_p{
     font-size: 1.4em;
     margin-bottom: 30px;
+    color: black;
 }
+
 
 /*edit end*/
 a,
@@ -682,7 +684,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: rgb(17, 17, 17)!important;
 }
 
 .container {
@@ -744,7 +746,7 @@ h3 {
     font-size: 15px;
     text-transform: uppercase;
     font-weight: 700;
-    color: #333333!important;
+    color: rgb(17, 17, 17)!important;
 }
 
 .med-width-whitespace {
@@ -758,7 +760,7 @@ h1 {
 }
 
 h4 {
-    color: #333333!important;
+    color: rgb(17, 17, 17)!important;
 }
 
 .icons {
@@ -811,7 +813,7 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: black!important;
 }
 
 .btn-atomic-tangerine:hover {
@@ -1070,4 +1072,8 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+
+.footer_intro{
+    color: black;
 }
