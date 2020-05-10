@@ -680,8 +680,7 @@ h5,
 h6,
 p,
 label,
-.btn,
-a {
+.btn {
     font-family: "helvetica";
     font-weight: 400;
     color: rgb(17, 17, 17)!important;
@@ -735,6 +734,10 @@ p {
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
+    color: #F3976C;
+}
+
+.social:hover{
     color: #F3976C;
 }
 
