@@ -38,6 +38,22 @@ body {
     color: black;
 }
 
+.black_link{
+    color: black;
+}
+
+.collaboration{
+    font-size: 1.1em;
+}
+
+.subtitle{
+    font-size: 1.3em;
+}
+
+.coordonees{
+    font-size: 1.3em;
+    margin-bottom: 40px;
+}
 
 /*edit end*/
 a,
@@ -264,7 +280,7 @@ a:hover {
 .l-bloc h5 a,
 .l-bloc h6 a,
 .l-bloc p a {
-    color: rgba(0, 0, 0, .6);
+    color: black;
 }
 
 .d-bloc .panel .a-btn:hover,
@@ -282,7 +298,7 @@ a:hover {
 .l-bloc h5 a:hover,
 .l-bloc h6 a:hover,
 .l-bloc p a:hover {
-    color: rgba(0, 0, 0, 1);
+    color: black;
 }
 
 .l-bloc .navbar-toggle .icon-bar {
@@ -680,7 +696,7 @@ h5,
 h6,
 p,
 label,
-.btn {
+.btn{
     font-family: "helvetica";
     font-weight: 400;
     color: rgb(17, 17, 17)!important;
@@ -1078,6 +1094,3 @@ h4 {
     }
 }
 
-.footer_intro{
-    color: black;
-}
