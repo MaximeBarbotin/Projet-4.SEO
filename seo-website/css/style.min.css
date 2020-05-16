@@ -42,6 +42,14 @@ body {
 .coordonees {
     font-size: 1.3em;
     margin-bottom: 40px;
+    text-align: center;
+    margin-top: 50px;
+    line-height: 200%;
+}
+
+.contact_bloc h3{
+    margin-bottom: 30px;
+    margin-top: -50px;
 }
 
 footer p{
@@ -65,7 +73,11 @@ footer p{
 .icon-md:hover{
     color: rgb(211, 211, 211);
 }
-
+.contact_bloc{
+    margin: auto;
+    align-items: center;
+    width: 485px;
+}
 
 a,
 button {
